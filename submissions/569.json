@@ -1,0 +1,15 @@
+{
+  "issue": 569,
+  "title": "Free Your Agents",
+  "submittedBy": "babo-jeonguk",
+  "source": {
+    "kind": "git",
+    "source": "https://github.com/babo-jeonguk/paseo-free-your-agents",
+    "ref": "v1.0.0"
+  },
+  "categories": [
+    "daemon-management",
+    "sidebar",
+    "utils"
+  ]
+}
